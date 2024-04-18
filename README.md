@@ -51,4 +51,6 @@ Static assets should be pre-cached upon loading, along with subsequent pages and
 Proper build scripts for a webpack application should be included for deployment to Render.
 ## Conclusion
 This project showcases proficiency in web development, data persistence techniques, and Progressive Web Application (PWA) principles. By delivering a reliable and accessible text editor that meets PWA criteria, it demonstrates the ability to create efficient and user-friendly web applications.
+## live application
+My application deployed on Render https://pwa-web-app-by-enna.onrender.com/
 
